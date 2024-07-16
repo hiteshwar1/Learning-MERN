@@ -1,0 +1,17 @@
+h1 {
+  display: inline-block;
+  margin: 100px;
+  border: 5px solid red;
+  padding: 20px;
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  border: 5px solid red;
+  justify-content: center;
+}

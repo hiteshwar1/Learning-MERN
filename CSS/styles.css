@@ -1,0 +1,19 @@
+h1 {
+  color: aliceblue;
+  border: 6px solid aliceblue;
+}
+
+p {
+  color: darkgray;
+  border: 3px dashed darkgray;
+  border-radius: 5px;
+}
+
+li {
+  color: darkmagenta;
+  border: 2px dotted darkmagenta;
+}
+
+ul {
+  list-style-type: circle;
+}
