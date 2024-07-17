@@ -1,13 +1,13 @@
-import Body from "./components/body";
-import Footer from "./components/footer";
-import Header from "./components/header";
+import Header from "./components/header.jsx";
+import Topics from "./components/topics.jsx";
+import "./index.css";
+
 function App() {
   return (
-    <>
+    <div className="bg-customColor px-16 pt-10">
       <Header />
-      <Body />
-      <Footer />
-    </>
+      <Topics />
+    </div>
   );
 }
 
